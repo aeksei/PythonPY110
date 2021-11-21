@@ -1,8 +1,8 @@
 def pow_gen(base: int):
-    n = 0
+    result = 1
     while True:
-        yield base ** n
-        n += 1
+        yield result
+        result *= base
 
 
 if __name__ == "__main__":

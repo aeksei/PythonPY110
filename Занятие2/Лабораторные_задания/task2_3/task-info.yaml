@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 28
-    length: 60
+    length: 70
     placeholder_text: '...  # TODO записать функцию-генератор'
 - name: __init__.py
   visible: false
