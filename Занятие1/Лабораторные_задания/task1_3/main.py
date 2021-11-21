@@ -4,7 +4,7 @@ def task() -> str:
         "Purple",
         "Salmon",
         "Turquoise",
-        "Cyan"
+        "Red",
     ]
 
     return min(list_words, key=len)
